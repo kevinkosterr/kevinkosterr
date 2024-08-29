@@ -1,18 +1,14 @@
 ## Hi there 👋
-
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg)
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
-<br><br>
 My name is Kevin and I'm a Software Engineer from The Netherlands 🇳🇱.
-<br><br><hr>
+
 ### 💼 Current occupation
 Software Engineer @ Realtime Register
 
 ### 📌 Highlighted
 ![Bootstrap Vue](https://github-readme-stats-git-master-kevinkosterrs-projects.vercel.app/api/pin?username=kevinkosterr&repo=bootstrap-vue&theme=dark)
-![Klean](https://github-readme-stats-git-master-kevinkosterrs-projects.vercel.app/api/pin?username=kevinkosterr&repo=klean&theme=dark)
 ![Migrate script Peewee](https://github-readme-stats-git-master-kevinkosterrs-projects.vercel.app/api/gist?id=43be0ac226fd355d5a1992118c9e810d&theme=dark)
+![Klean](https://github-readme-stats-git-master-kevinkosterrs-projects.vercel.app/api/pin?username=kevinkosterr&repo=klean&theme=dark)
+
 
 ### 🛠️ Toolset
 
