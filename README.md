@@ -5,6 +5,7 @@ My name is Kevin and I'm a Software Engineer from The Netherlands 🇳🇱.
 Software Engineer @ Realtime Register
 
 ### 📌 Highlighted
+[![Vue 3 Form Generator](https://github-readme-stats-git-master-kevinkosterrs-projects.vercel.app/api/pin?username=kevinkosterr&repo=vue3-form-generator&theme=dark)](https://github.com/kevinkosterr/vue3-form-generator)
 [![Bootstrap Vue](https://github-readme-stats-git-master-kevinkosterrs-projects.vercel.app/api/pin?username=kevinkosterr&repo=bootstrap-vue&theme=dark)](https://github.com/kevinkosterr/bootstrap-vue)
 [![Migrate script Peewee](https://github-readme-stats-git-master-kevinkosterrs-projects.vercel.app/api/gist?id=43be0ac226fd355d5a1992118c9e810d&theme=dark)](https://gist.github.com/kevinkosterr/43be0ac226fd355d5a1992118c9e810d)
 [![Klean](https://github-readme-stats-git-master-kevinkosterrs-projects.vercel.app/api/pin?username=kevinkosterr&repo=klean&theme=dark)](https://github.com/kevinkosterr/klean)
